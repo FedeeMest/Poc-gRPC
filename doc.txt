@@ -1,0 +1,5 @@
+1) pnpm install
+
+2) new terminal --> node server.js
+
+3) new terminal --> node client.js
